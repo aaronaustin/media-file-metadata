@@ -3,6 +3,7 @@
 Description: This plugin adds metadata to media files.
 Version: 1.0
 License: GPLv2
+GitHub Plugin URI: https://github.com/aaronaustin/media-file-metadata
 */
 
 require_once( ABSPATH . 'wp-admin/includes/media.php' );
